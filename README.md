@@ -1,4 +1,4 @@
-# Teste-Caixa-Branca
+# Teste de Caixa Branca
 
 ## Estrutura do Código
 O código está organizado em uma classe Java chamada `User`. Esta classe tem os seguintes métodos e variáveis:
