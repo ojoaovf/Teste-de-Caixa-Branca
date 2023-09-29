@@ -1,6 +1,13 @@
-## Teste-Caixa-Branca
+# Teste-Caixa-Branca
 
-## Avaliação
+## Estrutura do Código
+O código está organizado em uma classe Java chamada `User`. Esta classe tem os seguintes métodos e variáveis:
+
+- `conectarBD()`: Este método estabelece uma conexão com o banco de dados MySQL e retorna a conexão.
+- `verificarUsuario(String login, String senha)`: Este método verifica as credenciais do usuário no banco de dados e armazena o resultado em uma variável booleana `result` e o nome do usuário em `nome`.
+
+
+# Avaliação - Aponte os erros que podem conter no código;
 
 1- A ausência de documentação no código prejudica a compreensão do projeto.
 
