@@ -7,7 +7,7 @@ O código está organizado em uma classe Java chamada `User`. Esta classe tem os
 - `verificarUsuario(String login, String senha)`: Este método verifica as credenciais do usuário no banco de dados e armazena o resultado em uma variável booleana `result` e o nome do usuário em `nome`.
 
 
-## Avaliação - Aponte os erros que podem conter no código;
+## Avaliação - Aponte os erros que podem conter no código
 
 1- A ausência de documentação no código prejudica a compreensão do projeto.
 
@@ -24,3 +24,7 @@ O código está organizado em uma classe Java chamada `User`. Esta classe tem os
 ## Adicional
 
 7. Os blocos "catch" vazios no código não tratam adequadamente os erros, tornando difícil identificar e resolver problemas, comprometendo a confiabilidade do programa. É importante adicionar tratamento de erros apropriado para lidar melhor com falhas.
+
+
+## Imagem do Código
+![Classe Calculadora](imgs/code.png)
